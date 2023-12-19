@@ -1,0 +1,28 @@
+body{
+	background-color: #000;
+	color: #f6f6f6;
+	height: 100vh;
+}
+#apresentacao{
+	display: flex;
+	align-items: center;
+}
+
+.titulo__destaque{
+	color: lightgreen;
+}
+
+img{
+	padding: 1px;
+	border-radius: 15px;
+	z-index: 1;
+}
+
+.image__container{
+	width: 25%;
+	height: 25%;
+	border: 2px solid lightgreen;
+	border-radius: 15px;
+	padding: 5px;
+	margin: 10px;
+}
